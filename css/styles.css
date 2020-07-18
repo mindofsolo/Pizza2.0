@@ -1,0 +1,46 @@
+/*********************tags*****************************/
+h1{
+  color: #1d3557;
+  text-align: center;
+  font-size: 100px;
+  -webkit-text-stroke: 2.5px white;
+  font-family: 'Rowdies', cursive;
+}
+
+p{
+  color: #1d3557;
+  background-color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Rowdies', cursive;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #1d3557;
+
+}
+body{
+  background-color: #a8dadc;
+}
+img{
+  border-radius: 10%;
+  width: 500px;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 7px solid #1d3557;
+}
+/*********************Classes*****************************/
+.Pizza1:hover{
+  color: white;
+  background-color: #e63946;
+  border: 2px solid white;
+}
+.imagemouse:hover{
+  border: 7px solid #e63946;
+}
+.header1:hover{
+  color: #e63946;
+  -webkit-text-stroke: 3px #1d3557;
+}
